@@ -1,1 +1,2 @@
-# alx_travel_app_0x02
+# ALX Travel App 0x02
+Chapa payment integration project files.
